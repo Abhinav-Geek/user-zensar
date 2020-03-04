@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-0
-file  in workspace
-=======
-file  in workspace
-1
->>>>>>> 0d3c0b1a121660852286497a0e517f60632c4dec
